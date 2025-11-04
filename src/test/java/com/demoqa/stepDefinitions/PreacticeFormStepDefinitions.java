@@ -21,7 +21,7 @@ public class PreacticeFormStepDefinitions {
     }
     @Given("that the user open the demoQA play and select forms")
     public void thatTheUserOpenTheDemoQAPlayAndSelectForms() {
-        theActorCalled("Mao").wasAbleTo(
+        theActorCalled("Natalia").wasAbleTo(
                 Open.url("https://demoqa.com/")
         );
 

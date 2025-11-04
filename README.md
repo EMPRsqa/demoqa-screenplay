@@ -32,13 +32,13 @@ To run the test cases for this user story, open the terminal bash.
 Run the following command:
 
 ```
-./gradlew clean test aggregate -Dtags=@UserStory1
+./gradlew clean test aggregate
 ```
 
 or at terminal powershell:
 
 ```
-gradlew clean test aggregate -Dtags=@UserStory1
+gradlew clean test aggregate
 ```
 
 Watch the execution and in the end find the report in next project path:
